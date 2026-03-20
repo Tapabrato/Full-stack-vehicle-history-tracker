@@ -1,7 +1,15 @@
-# Full Stack Vehicle History Tracker
+# Full Stack UI/UX Vehicle History Tracker
 
+A Soroban smart contract workspace for decentralized Vehicle History Tracker
+
+<img width="1919" height="911" alt="Screenshot 2026-03-20 152617" src="https://github.com/user-attachments/assets/39d15b44-e5f6-406b-a462-169366c2fd5a" />
+
+
+A Soroban smart contract workspace Frontend for decentralized Vehicle History Tracker
 
 <img width="1919" height="896" alt="image" src="https://github.com/user-attachments/assets/f7bbce85-e0a0-4c23-9741-db5c857ccaeb" />
+
+
 
 
 ## Table of Contents
