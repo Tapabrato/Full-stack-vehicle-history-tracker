@@ -1,5 +1,9 @@
 # Full Stack Vehicle History Tracker
 
+
+<img width="1919" height="896" alt="image" src="https://github.com/user-attachments/assets/f7bbce85-e0a0-4c23-9741-db5c857ccaeb" />
+
+
 ## Table of Contents
 
 - [About](#about)
