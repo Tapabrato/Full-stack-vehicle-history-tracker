@@ -101,6 +101,12 @@ Before you begin, ensure you have the following installed:
 
 ### Running the Application
 
+## Deployed Contract
+
+- Network: Stellar Soroban
+- Contract ID: `CBF4SQHZ6N4M2C427BY26U4ENXRX3MVRAMBKNTWTAWYRWEESJJAZWNIY`
+- Explorer Link(Contract Address): [Stellar Contract Explorer(Contract Address)](https://lab.stellar.org/smart-contracts/contract-explorer?$=network$id=testnet&label=Testnet&horizonUrl=https:////horizon-testnet.stellar.org&rpcUrl=https:////soroban-testnet.stellar.org&passphrase=Test%20SDF%20Network%20/;%20September%202015;&smartContracts$explorer$contractId=CBF4SQHZ6N4M2C427BY26U4ENXRX3MVRAMBKNTWTAWYRWEESJJAZWNIY;;)
+
 1.  **Start the backend server:**
     ```bash
     cd backend
